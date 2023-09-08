@@ -13,7 +13,7 @@ This is a movie app project built with React with following functionality and ke
 
 ---
 
-<img width="600px" src="https://github.com/aytacserce/react-7-usepopcorn/blob/main/The-React-Quiz-screenshot.png?raw=true" />
+<img width="600px" src="https://github.com/aytacserce/react-10-quiz/blob/main/The-React-Quiz-screenshot.png?raw=true" />
 
 ---
 
