@@ -3,7 +3,7 @@
 
 ---
 
-This is a movie app project built with React with following functionality and key concepts:
+This is a small quiz app project built with React with following functionality and key concepts:
 - We can;
   - start a new quiz after the welcome screen and finish it within given time which we can follow with a timer,
   - answer questions about React fundamentals one-by-one and see the correct answer as we click as well as the selected answer by us,
